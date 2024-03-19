@@ -1,0 +1,154 @@
+D:\Hasee\Hasee\obj\Debug\Hasee.csprojAssemblyReference.cache
+D:\Hasee\Hasee\obj\Debug\Hasee.csproj.CoreCompileInputs.cache
+D:\Hasee\Hasee\bin\Hasee.dll.config
+D:\Hasee\Hasee\bin\Hasee.dll
+D:\Hasee\Hasee\bin\Hasee.pdb
+D:\Hasee\Hasee\bin\roslyn\csc.exe
+D:\Hasee\Hasee\bin\roslyn\csc.exe.config
+D:\Hasee\Hasee\bin\roslyn\csc.rsp
+D:\Hasee\Hasee\bin\roslyn\csi.exe
+D:\Hasee\Hasee\bin\roslyn\csi.exe.config
+D:\Hasee\Hasee\bin\roslyn\csi.rsp
+D:\Hasee\Hasee\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Hasee\Hasee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Hasee\Hasee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Hasee\Hasee\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Hasee\Hasee\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Hasee\Hasee\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Hasee\Hasee\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Hasee\Hasee\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Hasee\Hasee\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Hasee\Hasee\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Hasee\Hasee\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Hasee\Hasee\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Hasee\Hasee\bin\roslyn\System.AppContext.dll
+D:\Hasee\Hasee\bin\roslyn\System.Collections.Immutable.dll
+D:\Hasee\Hasee\bin\roslyn\System.Console.dll
+D:\Hasee\Hasee\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Hasee\Hasee\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Hasee\Hasee\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Hasee\Hasee\bin\roslyn\System.Globalization.Calendars.dll
+D:\Hasee\Hasee\bin\roslyn\System.IO.Compression.dll
+D:\Hasee\Hasee\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Hasee\Hasee\bin\roslyn\System.IO.FileSystem.dll
+D:\Hasee\Hasee\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Hasee\Hasee\bin\roslyn\System.Net.Http.dll
+D:\Hasee\Hasee\bin\roslyn\System.Net.Sockets.dll
+D:\Hasee\Hasee\bin\roslyn\System.Reflection.Metadata.dll
+D:\Hasee\Hasee\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Hasee\Hasee\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Hasee\Hasee\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Hasee\Hasee\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Hasee\Hasee\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Hasee\Hasee\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Hasee\Hasee\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Hasee\Hasee\bin\roslyn\System.ValueTuple.dll
+D:\Hasee\Hasee\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Hasee\Hasee\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Hasee\Hasee\bin\roslyn\System.Xml.XPath.dll
+D:\Hasee\Hasee\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Hasee\Hasee\bin\roslyn\vbc.exe
+D:\Hasee\Hasee\bin\roslyn\vbc.exe.config
+D:\Hasee\Hasee\bin\roslyn\vbc.rsp
+D:\Hasee\Hasee\bin\roslyn\VBCSCompiler.exe
+D:\Hasee\Hasee\bin\roslyn\VBCSCompiler.exe.config
+D:\Hasee\Hasee\bin\Antlr3.Runtime.dll
+D:\Hasee\Hasee\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Hasee\Hasee\bin\AspNet.ScriptManager.jQuery.dll
+D:\Hasee\Hasee\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Hasee\Hasee\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Hasee\Hasee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Hasee\Hasee\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Hasee\Hasee\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Hasee\Hasee\bin\Microsoft.Web.Infrastructure.dll
+D:\Hasee\Hasee\bin\Newtonsoft.Json.dll
+D:\Hasee\Hasee\bin\System.Web.Optimization.dll
+D:\Hasee\Hasee\bin\WebGrease.dll
+D:\Hasee\Hasee\bin\System.Web.Optimization.xml
+D:\Hasee\Hasee\bin\Newtonsoft.Json.xml
+D:\Hasee\Hasee\bin\Antlr3.Runtime.pdb
+D:\Hasee\Hasee\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Hasee\Hasee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Hasee\Hasee\obj\Debug\Hasee.csproj.CopyComplete
+D:\Hasee\Hasee\obj\Debug\Hasee.dll
+D:\Hasee\Hasee\obj\Debug\Hasee.pdb
+D:\Hasee\Hasee\bin\HtmlAgilityPack.dll
+D:\Hasee\Hasee\bin\HtmlAgilityPack.pdb
+D:\Hasee\Hasee\bin\HtmlAgilityPack.xml
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\Hasee.dll.config
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\Hasee.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\Hasee.pdb
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\csc.exe
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\csc.exe.config
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\csc.rsp
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\csi.exe
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\csi.exe.config
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\csi.rsp
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\System.AppContext.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\System.Console.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\System.IO.Compression.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\System.Net.Http.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\System.ValueTuple.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\vbc.exe
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\vbc.exe.config
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\vbc.rsp
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\VBCSCompiler.exe
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\Antlr3.Runtime.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\HtmlAgilityPack.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\Newtonsoft.Json.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\System.Web.Optimization.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\WebGrease.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\HtmlAgilityPack.pdb
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\HtmlAgilityPack.xml
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\System.Web.Optimization.xml
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\Newtonsoft.Json.xml
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\Antlr3.Runtime.pdb
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\obj\Debug\Hasee.csproj.AssemblyReference.cache
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\obj\Debug\Hasee.csproj.CoreCompileInputs.cache
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\obj\Debug\Hasee.csproj.CopyComplete
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\obj\Debug\Hasee.dll
+C:\Users\SMJ11824\OneDrive - Nexer AB\Drive\Learning\Hasee\obj\Debug\Hasee.pdb
